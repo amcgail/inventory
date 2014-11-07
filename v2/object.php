@@ -112,7 +112,6 @@ var thisobject = <?php echo json_encode( $thisobject ); ?>;
 $(document).ready( function() {
 
 	$maindiv = $("<div>").addClass( "maindiv" );
-
 	var $objdiv = $("<div>").addClass( "objdiv" );
 	var $infolist = $("<table>").addClass( "infolist" );
 	$objdiv.append( $infolist );
