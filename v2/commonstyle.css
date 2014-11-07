@@ -1,0 +1,8 @@
+.result {
+	padding: 3px 0;
+	cursor: pointer;
+}
+
+.result:hover {
+	text-decoration: underline;
+}
